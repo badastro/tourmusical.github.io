@@ -1,0 +1,4 @@
+http://www.fontsquirrel.com/fonts/bebas-NEUE
+http://www.fontsquirrel.com/fonts/nexa
+http://www.fontsquirrel.com/fonts/raleway
+http://www.fontsquirrel.com/fonts/LATO
